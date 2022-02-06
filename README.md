@@ -9,4 +9,3 @@ Versions included:
 * 16.04 LTS
 * 18.04 LTS
 * 20.04 LTS
-* 

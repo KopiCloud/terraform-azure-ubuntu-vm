@@ -2,7 +2,7 @@
 
 Deploying an Ubuntu VM in Azure using Terraform
 
-To change the Ubuntu version, update the SKU in the **linux-vm-main.tf** file using the values in the ubuntu-variables.tf
+To change the Ubuntu version, update the SKU and OFFER in the **linux-vm-main.tf** file using the values in the ubuntu-variables.tf
 
 Versions included:
 

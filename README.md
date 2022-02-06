@@ -8,5 +8,6 @@ Versions included:
 
 * 16.04 LTS
 * 18.04 LTS
+* 20.04 LTS
 
 Blog Post --> https://gmusumeci.medium.com/how-to-deploy-an-ubuntu-linux-vm-in-azure-using-terraform-d523731c39d3

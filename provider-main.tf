@@ -4,7 +4,7 @@
 
 # Define Terraform provider
 terraform {
-  required_version = "~> 1.0"
+  required_version = "~> 2.6.0"
 }
 
 # Configure the Azure provider
